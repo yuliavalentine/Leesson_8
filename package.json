@@ -1,0 +1,11 @@
+{
+  "name": "function",
+  "version": "1.0.0",
+  "description": "aqa task",
+  "main": "",
+  "scripts": {
+    "test": "node lesson_8.js"
+  },
+  "author": "AQA team",
+  "license": "ISC"
+}
